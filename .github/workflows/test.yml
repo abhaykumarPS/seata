@@ -2,7 +2,7 @@ name: "test"
 
 on:
   push:
-    branches: [ testing ]
+    branches: [ arm-support ]
 
 jobs:          
   arm64-test: 
